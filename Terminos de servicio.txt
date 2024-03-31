@@ -1,0 +1,26 @@
+# Términos de Servicio del Bot de Discord De RaspuTV
+
+## Aceptación de los Términos
+Al utilizar este bot de Discord, aceptas cumplir con los siguientes términos y condiciones. Si no estás de acuerdo con alguno de estos términos, por favor, no utilices el bot.
+
+## Uso Adecuado
+1. Este bot está destinado únicamente para su uso en servidores de Discord. No está permitido utilizar el bot para actividades ilegales o que violen los Términos de Servicio de Discord.
+2. No está permitido el uso del bot para enviar spam, publicidad no autorizada u otro tipo de contenido no solicitado a los usuarios.
+3. Se prohíbe el uso del bot para difundir contenido que pueda ser considerado ofensivo, discriminatorio, difamatorio, o que viole los derechos de propiedad intelectual de terceros.
+
+## Privacidad y Protección de Datos
+1. Este bot puede recopilar y almacenar datos personales de los usuarios en la medida necesaria para su funcionamiento. Los datos personales serán tratados de acuerdo con nuestra Política de Privacidad.
+2. Nos comprometemos a proteger la privacidad de los usuarios y a cumplir con todas las leyes y regulaciones de protección de datos aplicables, incluyendo el Reglamento General de Protección de Datos (GDPR) de la Unión Europea y cualquier ley local de protección de datos.
+
+## Responsabilidades del Usuario
+1. Eres responsable de cualquier actividad que realices con el bot en servidores de Discord.
+2. Debes cumplir con las reglas y normas establecidas por los servidores de Discord en los que utilices el bot.
+3. Eres responsable de proteger tu propia privacidad y seguridad mientras utilizas el bot. No compartas información personal sensible a través del bot.
+
+## Cambios en los Términos
+Nos reservamos el derecho de modificar estos Términos de Servicio en cualquier momento y sin previo aviso. Se te notificará sobre cualquier cambio realizado a estos términos mediante una actualización de los mismos en esta página.
+
+## Contacto
+Si tienes alguna pregunta o inquietud sobre estos Términos de Servicio, puedes ponerte en contacto con nosotros a través de [Correo: raspuyt@gmail.com, Discord: https://discord.gg/QMRDAr8QDv, Mi Discord: rasputv].
+
+Última actualización: [31/03/2024]
